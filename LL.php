@@ -14,3 +14,4 @@
 //echo long2ip(sprintf('%u',ip2long('192.168.90.78')));
 //
 echo phpinfo();
+echo "hello word";
